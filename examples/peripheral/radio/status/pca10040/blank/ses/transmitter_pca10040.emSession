@@ -1,0 +1,66 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="transmitter_pca10040"/>
+  <ProjectSessionItem path="transmitter_pca10040;transmitter_pca10040"/>
+  <ProjectSessionItem path="transmitter_pca10040;transmitter_pca10040;Application"/>
+  <ProjectSessionItem path="transmitter_pca10040;transmitter_pca10040;Board Support"/>
+  <ProjectSessionItem path="transmitter_pca10040;transmitter_pca10040;nRF_Drivers"/>
+  <ProjectSessionItem path="transmitter_pca10040;transmitter_pca10040;nRF_Libraries"/>
+  <ProjectSessionItem path="transmitter_pca10040;transmitter_pca10040;nRF_Log"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="260" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="239" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="103" y="146" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../components/drivers_nrf/radio_config/radio_config.c" selected="0" top="34" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="98" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../components/boards/boards.h" selected="0" top="84" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="61" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../components/boards/pca10040.h" selected="0" top="56" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="49" y="596" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../time_sync - KF - status.c" selected="0" top="553" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="28" y="128" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../time_sync.h" selected="0" top="109" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="187" useTextEdit="1" useBinaryEdit="0" left="0" path="D:/SEGGER/SEGGER Embedded Studio for ARM 4.30/include/string.h" selected="0" top="185" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="38" y="6114" useTextEdit="1" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="6101" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="72" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/log/nrf_log_default_backends.h" selected="0" top="54" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="72" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/log/src/nrf_log_default_backends.c" selected="0" top="59" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="93" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/log/nrf_log_ctrl.h" selected="0" top="80" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="12" y="111" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../modules/nrfx/drivers/src/nrfx_uart.c" selected="0" top="98" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="16" y="361" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../nrf_pwr_mgmt.c" selected="0" top="346" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="79" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/util/nordic_common.h" selected="0" top="66" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="534" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/bsp/bsp.c" selected="0" top="522" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="139" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/timer/app_timer.h" selected="0" top="127" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="555" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/timer/app_timer2.c" selected="0" top="550" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="160" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/bsp/bsp.h" selected="0" top="150" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="3" useTextEdit="1" useBinaryEdit="0" left="0" path="transmitter_pca10040.emProject" selected="1" top="0" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="transmitter_pca10040" fileDialogDefaultFilter="" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="D:/BlueTooth/nRF5_SDK_16.0.0_98a08e2/examples/peripheral/radio/status" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
